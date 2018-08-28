@@ -1,4 +1,4 @@
-https://travis-ci.org/LCfP-basictrack/w1-a1-hello-world-ROvERenTHOReguN.svg?branch=master
+[![Build Status](https://travis-ci.org/LCfP-basictrack/w1-a1-hello-world-ROvERenTHOReguN.svg?branch=master)](https://travis-ci.org/LCfP-basictrack/w1-a1-hello-world-ROvERenTHOReguN)
 
 Week 1 Assignment 1: Hello World!
 
